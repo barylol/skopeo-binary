@@ -5,7 +5,7 @@
 Generate [skopeo](https://github.com/containers/skopeo) binaries.
 
 ## Useage
-
+s
 The [release](https://github.com/lework/skopeo-binary/releases) version of the project is the same as the [skopeo](https://github.com/containers/skopeo/releases) release version, which can be viewed directly on the [ release](https://github.com/lework/skopeo-binary/releases) page directly.
 
 ```bash
